@@ -1,4 +1,4 @@
-### Hello there <a href="#"><img src="https://raw.githubusercontent.com/TOC-EN/TOC-EN/main/wave.gif" width="30"></a>
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 Student at the Belarusian State University of Informatics and Radioelectronics, pursuing a degree in Informatics and Programming Technologies. Studying at the Faculty of Computer Systems and Networks, the most prestigious in Belarus, specializing in Informatics and Programming Technologies.
 
@@ -6,7 +6,7 @@ I am a mobile developer specializing in cross-platform development with Flutter 
 
 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-malashkevich-28875b252/) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/miksaFF)
 
-### <a href="#"><img src="https://raw.githubusercontent.com/TOC-EN/TOC-EN/main/tools.gif" width="30"></a> Tech Stack
+### <a href="#"><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"></a> Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-00A6FF?style=flat-square&logo=bloc&logoColor=white)
@@ -18,7 +18,7 @@ Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### <a href="#"><img src="https://raw.githubusercontent.com/TOC-EN/TOC-EN/main/stats.gif" width="30"></a> GitHub Stats
+### <a href="#"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"></a> GitHub Stats
 
 ![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhail-sfb&show_icons=true&theme=radical)
 
