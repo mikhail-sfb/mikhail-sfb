@@ -20,6 +20,7 @@ I am a student at the Belarusian State University of Informatics and Radioelectr
 
 ### 📊 GitHub Stats
 
-![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=miksaFF&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miksaFF&layout=compact&theme=radical)
+![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhail-sfb&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-sfb&layout=compact&theme=radical)
+
 
