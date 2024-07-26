@@ -1,6 +1,6 @@
 ### Hello there <a href="#"><img src="https://raw.githubusercontent.com/TOC-EN/TOC-EN/main/wave.gif" width="30"></a>
 
-Student at the Belarusian State University of Informatics and Radioelectronics, pursuing a degree in Informatics and Programming Technologies. Studying at the Faculty of Computer Systems and Networks, the most prestigious in Belarus, specializing in Informatics and Programming Technologies. 
+Student at the Belarusian State University of Informatics and Radioelectronics, pursuing a degree in Informatics and Programming Technologies. Studying at the Faculty of Computer Systems and Networks, the most prestigious in Belarus, specializing in Informatics and Programming Technologies.
 
 I am a mobile developer specializing in cross-platform development with Flutter and also learning Swift for native mobile applications and AR/VR solutions for an American company.
 
