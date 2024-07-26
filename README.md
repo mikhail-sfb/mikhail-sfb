@@ -8,7 +8,7 @@ Connect with me on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-malashkevich-28875b252/) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/miksaFF)
 
-### 🛠️ Toolbox
+### 🛠️  Toolbox
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-00A6FF?style=flat-square&logo=bloc&logoColor=white)
@@ -20,7 +20,7 @@ Connect with me on
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊  GitHub Stats
 
 ![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhail-sfb&show_icons=true&theme=radical)
 
