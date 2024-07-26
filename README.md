@@ -1,12 +1,4 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
-
-body {
-    font-family: 'Montserrat', sans-serif;
-}
-</style>
-
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hello, i'm Mikhail Malashkevich <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 Student at the Belarusian State University of Informatics and Radioelectronics, pursuing a degree in Informatics and Programming Technologies. Studying at the Faculty of Computer Systems and Networks, the most prestigious in Belarus, specializing in Informatics and Programming Technologies.
 
@@ -16,7 +8,7 @@ Connect with me on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-malashkevich-28875b252/) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/miksaFF)
 
-### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"> Toolbox
+### 🛠️ Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-00A6FF?style=flat-square&logo=bloc&logoColor=white)
@@ -28,8 +20,6 @@ Connect with me on
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="30px"> GitHub Stats
-
-![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhail-sfb&show_icons=true&theme=radical)
+### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-sfb&layout=compact&theme=radical)
