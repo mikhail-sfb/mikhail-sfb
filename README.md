@@ -4,7 +4,8 @@ Student at the Belarusian State University of Informatics and Radioelectronics, 
 
 I am a mobile developer specializing in cross-platform development with Flutter and also learning Swift for native mobile applications and AR/VR solutions for an American company.
 
-Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-malashkevich-28875b252/) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/miksaFF)
+Connect with me on 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-malashkevich-28875b252/) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/miksaFF)
 
 ### 🛠️ Toolbox
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
