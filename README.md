@@ -1,6 +1,6 @@
 # Hello, i'm Mikhail Malashkevich <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Student at the Belarusian State University of Informatics and Radioelectronics, pursuing a degree in Informatics and Programming Technologies. Studying at the Faculty of Computer Systems and Networks, pursuing my degree in Informatics and Technologies of Programming.
+Student at the Belarusian State University of Informatics and Radioelectronics. Studying at the Faculty of Computer Systems and Networks, pursuing my degree in Informatics and Technologies of Programming.
 
 I am a mobile developer specializing in cross-platform development with Flutter and also native developement with Swift for native mobile applications as well as Apple Vision Pro apps for an American company.
 
